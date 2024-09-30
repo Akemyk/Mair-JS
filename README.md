@@ -4,4 +4,4 @@
 ‘Números iguais’, caso os números sejam iguais
 ‘Primeiro é maior’, caso o primeiro seja maior que o segundo;
 ‘Segundo maior’, caso o segundo seja maior que o primeiro.   </p>
-<p>Clique aqui para testar -> https://akemyk.github.io/Lados-triangulo-JS/  </p>
+<p>Clique aqui para testar -> https://akemyk.github.io/Mair-JS/ </p>
